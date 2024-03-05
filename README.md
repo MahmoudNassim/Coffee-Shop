@@ -1,9 +1,8 @@
 # flutter_application_6
 
-A new Flutter project.
+Simple application using modern ui to order coffee
 
 ## Getting Started
-Simple application using modern ui to order coffee
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
